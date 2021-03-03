@@ -1,0 +1,15 @@
+{
+    "name": "saon2aria",
+    "description": "Telegram mirror bot with python",
+    "logo": "https://telegra.ph/file/aabe78ce1d4d67c042f2f.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "aria",
+      "python"
+    ],
+    "repository": "https://github.com/xon54/saon2aria0.git",
+    "website": "https://github.com/Xon54/saon2aria0/tree/master",
+    "success_url": "https://t.me/saon2aria_bot",
+    "stack": "container",
+}
